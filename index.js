@@ -30,3 +30,9 @@ app.put('/api/products/:id',(req,res)=>{
     const updatedProduct = repoContext.products.updateProduct(id,productToUpdate);
     return res.send(updatedProduct)
 })
+
+app.delete('/api/products/:id', (req,res)=>{
+    const id = req.params.id;
+    const deletedProduct = repoContext.products.deleteProduct(id);
+    return res.send(deletedProduct)
+})
