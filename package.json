@@ -1,0 +1,19 @@
+{
+  "name": "node_express_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtulpa16/Node_Express_Music_Library_API.git"
+  },
+  "author": "daniel_tulpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtulpa16/Node_Express_Music_Library_API/issues"
+  },
+  "homepage": "https://github.com/dtulpa16/Node_Express_Music_Library_API#readme"
+}
