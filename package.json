@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dtulpa16/Node_Express_Music_Library_API/issues"
   },
-  "homepage": "https://github.com/dtulpa16/Node_Express_Music_Library_API#readme"
+  "homepage": "https://github.com/dtulpa16/Node_Express_Music_Library_API#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
