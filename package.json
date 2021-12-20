@@ -20,8 +20,11 @@
   "homepage": "https://github.com/dtulpa16/Node_Express_Music_Library_API#readme",
   "dependencies": {
     "axios": "^0.24.0",
+    "config": "^3.3.6",
     "cors": "^2.8.5",
     "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "mongoose": "^6.1.2",
     "nodemon": "^2.0.15"
   }
 }
